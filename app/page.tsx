@@ -5,6 +5,7 @@ import styles from '@/app/ui/home.module.css';
 //import the lusitana font
 import { lusitana } from '@/app/ui/fonts'; 
 import Image from 'next/image';
+import { fetchInvoicesPages } from '@/app/lib/data';
 
 export default function Page() {
   return (
