@@ -1,5 +1,17 @@
 {
-  "node": {},
+  "node": {
+    "605afbb108f8db94a4936b71679de300f6888da34e": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "[project]/.next-internal/server/app/login/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "ZmyYm+6CY3/WktMhgr1VYKdAaLsQUTSlYuqExtu2whA="
 }

@@ -1,9 +1,9 @@
 {
   "app": {
-    "[project]/app/_not-found/page": [
-      "static/media/06ba6ef833b337bc-s.p.7b3669ea.woff2",
+    "[project]/app/login/page": [
       "static/media/a513310e873551ed-s.p.3d91dfde.woff2",
-      "static/media/8b6df6315033e3e2-s.p.328982ad.woff2"
+      "static/media/8b6df6315033e3e2-s.p.328982ad.woff2",
+      "static/media/06ba6ef833b337bc-s.p.7b3669ea.woff2"
     ]
   },
   "appUsingSizeAdjust": true,

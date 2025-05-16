@@ -1,9 +1,11 @@
 {
   "pages": {
-    "/_not-found/page": [
+    "/login/page": [
       "static/chunks/[root-of-the-server]__b94e0764._.css",
       "static/chunks/e5c62_next_dist_d719517a._.js",
       "static/chunks/app_layout_tsx_38776e7c._.js",
+      "static/chunks/[root-of-the-server]__24fc3bef._.js",
+      "static/chunks/app_login_page_tsx_19b0fd8e._.js",
       "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_058658b7._.js",
       "static/chunks/e5c62_next_dist_compiled_react-dom-experimental_6171bcbb._.js",
       "static/chunks/e5c62_next_dist_compiled_153c3038._.js",
