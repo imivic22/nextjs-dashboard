@@ -1,17 +1,5 @@
 {
-  "node": {
-    "4014b20d464de13133dd81dbd38333958864350959": {
-      "workers": {
-        "app/dashboard/invoices/create/page": {
-          "moduleId": "[project]/.next-internal/server/app/dashboard/invoices/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/dashboard/invoices/create/page": "rsc"
-      }
-    }
-  },
+  "node": {},
   "edge": {},
   "encryptionKey": "ZmyYm+6CY3/WktMhgr1VYKdAaLsQUTSlYuqExtu2whA="
 }

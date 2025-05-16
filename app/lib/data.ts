@@ -166,7 +166,6 @@ export async function fetchInvoiceById(id: string) {
     throw new Error('Failed to fetch invoice.');
   }
 }
-
 export async function fetchCustomers() {
   try {
     const customers = await sql<CustomerField[]>`
